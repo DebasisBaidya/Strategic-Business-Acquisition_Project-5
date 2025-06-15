@@ -65,6 +65,16 @@ A multi-stage pipeline: from preprocessing and EDA to clustering, modeling, dash
 
 ---
 
+## 🌐 Streamlit Preview
+
+Here’s a quick preview of the interactive dashboard built using Streamlit:
+
+<p align="center">
+  <img src="Streamlit Dashboard with live prediction based on input.png" alt="Streamlit Dashboard Preview" width="700"/>
+</p>
+
+---
+
 ## 📁 Folder Structure
 
 ```
@@ -94,11 +104,11 @@ Telecom_User_Analytics
 
 ## 📌 Why This Project Matters
 
-* 📊 Helps telecom providers **understand user behavior**
-* ⚙️ Optimizes **network performance and resource allocation**
-* 🎯 Enables **personalized service recommendations**
-* 😊 Enhances **customer satisfaction and retention**
-  
+- 📊 Helps telecom providers **understand user behavior**  
+- ⚙️ Optimizes **network performance and resource allocation**  
+- 🎯 Enables **personalized service recommendations**  
+- 😊 Enhances **customer satisfaction and retention**
+
 ---
 
 ## 🧭 Future Scope
