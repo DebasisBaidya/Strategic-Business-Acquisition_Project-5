@@ -29,39 +29,39 @@ A multi-stage pipeline: from preprocessing and EDA to clustering, modeling, dash
 ## 🔧 Key Features
 
 ### 🧼 Data Preprocessing
-- Cleaned and prepared 150,000+ records  
-- Handled duplicates, missing values, and normalized data  
+- ✅ Cleaned and prepared 150,000+ records  
+- 🧹 Handled duplicates, missing values, and normalized data  
 
 ### 📊 Exploratory Data Analysis (EDA)
-- Analyzed user engagement, app usage, handset performance  
-- Visualized trends, correlations, and distributions  
+- 🔎 Analyzed user engagement, app usage, handset performance  
+- 📈 Visualized trends, correlations, and distributions  
 
 ### 🔍 User Engagement & Clustering
-- Segmented users using **K-Means Clustering**  
-- Identified top apps and their traffic contribution  
+- 🧠 Segmented users using **K-Means Clustering**  
+- 📱 Identified top apps and their traffic contribution  
 
 ### 🤖 Predictive Modeling
-- Built **Random Forest Regressor** to predict customer satisfaction  
-- Saved model using `pickle` for future use  
+- 🧮 Built **Random Forest Regressor** to predict customer satisfaction  
+- 💾 Saved model using `pickle` for future use  
 
 ### 📈 Streamlit Dashboard
-- Interactive dashboard to visualize key metrics  
-- Allows stakeholders to explore engagement and satisfaction in real-time  
+- 🎛️ Interactive dashboard to visualize key metrics  
+- 👥 Allows stakeholders to explore engagement and satisfaction in real-time  
 
 ### 🗄️ SQL Server Integration
-- Exported insights to SQL Server  
-- Automated table creation and insertion using SQLAlchemy + pyodbc  
+- 📤 Exported insights to SQL Server  
+- ⚙️ Automated table creation and insertion using SQLAlchemy + pyodbc  
 
 ---
 
 ## 🧰 Tools & Technologies
 
-- **Language**: Python  
+- **Language**: 🐍 Python  
 - **Libraries**: `pandas`, `numpy`, `matplotlib`, `seaborn`, `sklearn`, `pickle`  
-- **Dashboard**: Streamlit  
-- **Database**: SQL Server (via SQLAlchemy & pyodbc)  
-- **IDE**: Jupyter Notebook  
-- **Version Control**: GitHub  
+- **Dashboard**: 📊 Streamlit  
+- **Database**: 🗃️ SQL Server (via SQLAlchemy & pyodbc)  
+- **IDE**: 📓 Jupyter Notebook  
+- **Version Control**: 🧬 GitHub  
 
 ---
 
@@ -71,23 +71,25 @@ A multi-stage pipeline: from preprocessing and EDA to clustering, modeling, dash
 
 Telecom\_User\_Analytics/
 │
-├── data/                         # Raw and cleaned datasets
-├── notebooks/                   # Jupyter notebooks for EDA, modeling
-├── dashboard/                   # Streamlit app files
-├── models/                      # Saved models using pickle
-├── sql/                         # SQL scripts and table schemas
-├── utils/                       # Helper functions
-└── README.md                    # Project documentation
+├── data/                         # 📂 Raw and cleaned datasets
+├── notebooks/                   # 📒 Jupyter notebooks for EDA, modeling
+├── dashboard/                   # 📊 Streamlit app files
+├── models/                      # 💾 Saved models using pickle
+├── sql/                         # 🗄️ SQL scripts and table schemas
+├── utils/                       # 🧰 Helper functions
+└── README.md                    # 📝 Project documentation
 
 ```
 
+---
+
 ## 🎯 Impact & Use Cases
 
-- 📈 **Business Intelligence**: Understand customer behavior and retention patterns
-- 💡 **Customer Experience**: Identify satisfaction drivers for different user segments
-- 🧩 **Data Integration**: Seamless pipeline from raw data to database-ready insights
-- 💻 **Real-time Exploration**: Interactive dashboard helps stakeholders explore KPIs without code
-- 
+- 📈 **Business Intelligence**: Understand customer behavior and retention patterns  
+- 💡 **Customer Experience**: Identify satisfaction drivers for different user segments  
+- 🧩 **Data Integration**: Seamless pipeline from raw data to database-ready insights  
+- 💻 **Real-time Exploration**: Interactive dashboard helps stakeholders explore KPIs without code  
+
 ---
 
 ## 📌 Why This Project Matters
@@ -101,19 +103,19 @@ Telecom\_User\_Analytics/
 
 ## 🧭 Future Scope
 
-- Integrate more granular user behavior features  
-- Explore deep learning models for satisfaction prediction  
-- Deploy Streamlit dashboard to a public cloud platform  
-- Enable live SQL data sync with a cron job  
+- 🔍 Integrate more granular user behavior features  
+- 🧠 Explore deep learning models for satisfaction prediction  
+- ☁️ Deploy Streamlit dashboard to a public cloud platform  
+- ⏱️ Enable live SQL data sync with a cron job  
 
 ---
 
 ## 👤 About Me
 
 **Debasis Baidya**  
-Senior MIS | Data Science Intern  
+💼 Senior MIS | 📊 Data Science Intern  
 ✅ Automated 80%+ manual processes at work  
-📊 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
+🧠 Skilled in Python, Power BI, SQL, Google Apps Script, ML, DL, NLP  
 
 <p align="left">
   📫 <strong>Let's connect:</strong>&nbsp;
