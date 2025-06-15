@@ -69,7 +69,7 @@ A multi-stage pipeline: from preprocessing and EDA to clustering, modeling, dash
 
 ```
 
-Telecom_User_Analytics/
+Telecom_User_Analytics
 
 ├── data                         # 📂 Raw and cleaned datasets
 ├── notebooks                    # 📒 Jupyter notebooks for EDA, modeling
@@ -98,7 +98,7 @@ Telecom_User_Analytics/
 * ⚙️ Optimizes **network performance and resource allocation**
 * 🎯 Enables **personalized service recommendations**
 * 😊 Enhances **customer satisfaction and retention**
-* 
+  
 ---
 
 ## 🧭 Future Scope
