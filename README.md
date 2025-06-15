@@ -69,14 +69,14 @@ A multi-stage pipeline: from preprocessing and EDA to clustering, modeling, dash
 
 ```
 
-Telecom\_User\_Analytics/
-│
-├── data/                         # 📂 Raw and cleaned datasets
-├── notebooks/                   # 📒 Jupyter notebooks for EDA, modeling
-├── dashboard/                   # 📊 Streamlit app files
-├── models/                      # 💾 Saved models using pickle
-├── sql/                         # 🗄️ SQL scripts and table schemas
-├── utils/                       # 🧰 Helper functions
+Telecom_User_Analytics/
+
+├── data                         # 📂 Raw and cleaned datasets
+├── notebooks                    # 📒 Jupyter notebooks for EDA, modeling
+├── dashboard                    # 📊 Streamlit app files
+├── models                       # 💾 Saved models using pickle
+├── sql                          # 🗄️ SQL scripts and table schemas
+├── utils                        # 🧰 Helper functions
 └── README.md                    # 📝 Project documentation
 
 ```
@@ -94,11 +94,11 @@ Telecom\_User\_Analytics/
 
 ## 📌 Why This Project Matters
 
-- Helps telecom providers **understand user behavior**  
-- Optimizes **network performance and resource allocation**  
-- Enables **personalized service recommendations**  
-- Enhances **customer satisfaction and retention**
-
+* 📊 Helps telecom providers **understand user behavior**
+* ⚙️ Optimizes **network performance and resource allocation**
+* 🎯 Enables **personalized service recommendations**
+* 😊 Enhances **customer satisfaction and retention**
+* 
 ---
 
 ## 🧭 Future Scope
